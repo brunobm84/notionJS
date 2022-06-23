@@ -18,7 +18,7 @@ async function teste()
       },
     },
   );
-  console.log(response);
+  console.log (response);
 }
 
 teste();
